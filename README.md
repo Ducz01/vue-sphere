@@ -96,6 +96,10 @@ _**9. extra_padding**_<br>
 _Type: Float_<br>
 Extra Padding around the sphere, where you can still control the direction.
 
+## GITHUB REPOSITORY
+https://github.com/Ducz01/vue-sphere
+
+
 ## LICENSE
 Copyright 2022 Duc Tran
 
