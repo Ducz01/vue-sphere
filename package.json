@@ -13,6 +13,13 @@
     },
     "./dist/style.css": "./dist/style.css"
   },
+  "keywords": [
+    "vue",
+    "vite",
+    "sphere",
+    "3D",
+    "roll"
+  ],
   "type": "module",
   "dependencies": {
     "vue": "^3.2.41"
